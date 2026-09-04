@@ -1,0 +1,29 @@
+filename = 'bits_n_bobs-2.2.3.jar'
+name = "Create Bits 'n' Bobs"
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "Create Bits 'n' Bobs 2.2.3 NeoForge 1.21.1"
+
+[download]
+hash = '875c1c9f882a39d19bb1badb7b01c5c9fb55db2f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8626276
+project-id = 1398383
+
+[[x-prismlauncher-dependencies]]
+addonId = '1466331'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1486746'
+type = 'REQUIRED'

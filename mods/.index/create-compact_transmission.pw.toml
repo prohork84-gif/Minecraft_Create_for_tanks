@@ -1,0 +1,21 @@
+filename = 'create_compact_transmission-1.0.7.jar'
+name = 'Create: Compact Transmission'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.7'
+
+[download]
+hash = 'c5ec068e47c42d45a4ef477fcbb0bf4ab686c25d95516a78ec7c42587756376710cb7ac39bda5a95517f1a36e3d5a88a549fc97a1e023415592c4e5ec9dbe401'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qBkvR8oH/versions/pg0UXg5T/create_compact_transmission-1.0.7.jar'
+
+[update.modrinth]
+mod-id = 'qBkvR8oH'
+version = 'pg0UXg5T'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'

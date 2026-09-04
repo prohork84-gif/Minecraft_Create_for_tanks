@@ -1,0 +1,37 @@
+filename = 'CBCmoreshells-1.2.3.jar'
+name = 'CBC Enchanced Shells [Create Big Cannons]'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'CBCmoreshells-1.2.3.jar'
+
+[download]
+hash = '6f400cac6a3e1d8d2c97e37a028fdc962d50769e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8612686
+project-id = 1489732
+
+[[x-prismlauncher-dependencies]]
+addonId = '1312371'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1279407'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '676721'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '646668'
+type = 'REQUIRED'

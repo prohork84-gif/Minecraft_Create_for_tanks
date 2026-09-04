@@ -1,0 +1,18 @@
+filename = 'cbcoptics-0.2.2-all.jar'
+name = 'CBC Optics'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'cbcoptics-0.2.2-all.jar'
+
+[download]
+hash = 'ace3516839e5888afdff11703712134aebea722e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8243703
+project-id = 1569794

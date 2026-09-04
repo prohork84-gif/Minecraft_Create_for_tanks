@@ -1,0 +1,18 @@
+filename = 'cbcatfix-1.21.1-neoforge-1.0.1.jar'
+name = 'CBC: Advanced technologies crash fix'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'cbcatfix-1.21.1-neoforge-1.0.1.jar'
+
+[download]
+hash = 'd204cbac7d11942a4e7d025e5c4e743ac329b6cd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8478560
+project-id = 1603954

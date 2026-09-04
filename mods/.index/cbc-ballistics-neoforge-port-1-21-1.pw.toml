@@ -1,0 +1,29 @@
+filename = 'cbc_ballistics-1.3.0a-neoforge-1.21.1.jar'
+name = 'CBC Ballistics: NeoForge Port'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'cbc_ballistics-1.3.jar'
+
+[download]
+hash = '2d7f76236ca4878bcf4bb87024a8bffe6e25c49e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8011050
+project-id = 1523915
+
+[[x-prismlauncher-dependencies]]
+addonId = '646668'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1279407'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'REQUIRED'

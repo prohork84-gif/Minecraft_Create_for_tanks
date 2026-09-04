@@ -1,0 +1,221 @@
+[18:43:56] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
+[18:43:56] [Render thread/INFO] [JourneymapClient] initialize ENTER
+[18:43:56] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 2.0.0
+[18:43:56] [Render thread/INFO] [PluginHelper] Initialized IJourneyMapPlugin as:com.simibubi.create.compat.trainmap.JourneyTrainMap: for:create
+[18:43:56] [Render thread/DEBUG] [JourneymapClient] Loading and Generating Journeymap configs
+[18:43:57] [Render thread/INFO] [?] Version: JourneyMap 1.21.1-6.0.0-beta.83, built with neoforge 0.116.7+1.21.1
+neoforge: 21.1.233
+Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=ru_ru, locale=ru_ru
+SP: : Новый мир (1) : 
+MP: : offline : 
+Features: 
+	RadarPlayers : singleplayer = true , multiplayer = true
+	RadarAnimals : singleplayer = true , multiplayer = true
+	RadarMobs : singleplayer = true , multiplayer = true
+	RadarVillagers : singleplayer = true , multiplayer = true
+	MapTopo : singleplayer = true , multiplayer = true
+	MapSurface : singleplayer = true , multiplayer = true
+	MapCaves : singleplayer = true , multiplayer = true
+	MapBiome : singleplayer = true , multiplayer = true
+MiniMapProperties{state=Valid, file=journeymap.minimap.config, configVersion=6.0.0-beta.83, infoSlotTimeFormat=HH:mm:ss, zoomLevel=512, compassFontScale=1.0, infoSlotFontScale=1.0, terrainAlpha=100, showEntityNames=false, showPassiveNames=false, positionX=0.9, positionY=0.25, effectVertical=false, showPlayerHeading=true, sizePercent=30, playerDisplayScale=1.0, showDayNight=true, showPets=true, showPlayerNames=true, preferredMapType=day, showCompass=true, showNpcNames=false, mobDisplay=jm.common.entity_display.dots_and_outlined_icons, showHostileNames=false, systemTimeRealFormat=HH:mm:ss, shape=jm.minimap.shape_circle, showSelf=true, showVillagerNames=false, selfDisplayScale=1.0, showGrid=true, reticleOrientation=jm.minimap.orientation.compass, minimapLockedMapType=jm.common.map_type.auto, effectTranslateX=0, info3LabelPosition=jm.minimap.info_slot.bottom, showWaypoints=true, info2LabelPosition=jm.minimap.info_slot.top, minimapKeyMovementSpeed=0.001, info1LabelPosition=jm.minimap.info_slot.top, showAnimals=true, infoSlotAlpha=0.7, effectTranslateY=0, showWaypointLabels=true, showAmbientNames=false, moveEffectIcons=true, showTeamNames=true, position=jm.minimap.position_topright, fontScale=1.0, info4LabelPosition=jm.minimap.info_slot.bottom, showPlayers=true, waypointIconScale=1.0, frameAlpha=100, effectReversed=false, backgroundAlpha=0.8, enabled=true, showVillagers=true, info2Label=jm.theme.labelsource.gametime, hudRenderLayer=jm.minimap.hud_render_layer_last, info3Label=jm.theme.labelsource.location, caveLayer=4, showMobs=true, waypointLabelScale=1.0, showReticle=true, orientation=jm.minimap.orientation.north, info4Label=jm.theme.labelsource.biome, locationFormat=xzyv, playerDisplay=jm.common.entity_display.outlined_icons, mobDisplayScale=1.0, showOffScreenPlayers=true, showCaves=true, hideEffectIcons=false, showMobHeading=true, locationFormatVerbose=true, showAmbientCreatures=false, showPetNames=false, info1Label=jm.theme.labelsource.blank, showNoIconNames=true}
+MiniMapProperties{state=Valid, file=journeymap.minimap2.config, configVersion=6.0.0-beta.83, infoSlotTimeFormat=HH:mm:ss, zoomLevel=512, compassFontScale=1.0, infoSlotFontScale=1.0, terrainAlpha=100, showEntityNames=false, showPassiveNames=false, positionX=0.9, positionY=0.25, effectVertical=false, showPlayerHeading=true, sizePercent=30, playerDisplayScale=1.0, showDayNight=true, showPets=true, showPlayerNames=true, preferredMapType=day, showCompass=true, showNpcNames=false, mobDisplay=jm.common.entity_display.dots_and_outlined_icons, showHostileNames=false, systemTimeRealFormat=HH:mm:ss, shape=jm.minimap.shape_rectangle, showSelf=true, showVillagerNames=false, selfDisplayScale=1.0, showGrid=true, reticleOrientation=jm.minimap.orientation.compass, minimapLockedMapType=jm.common.map_type.auto, effectTranslateX=0, info3LabelPosition=jm.minimap.info_slot.bottom, showWaypoints=true, info2LabelPosition=jm.minimap.info_slot.top, minimapKeyMovementSpeed=0.001, info1LabelPosition=jm.minimap.info_slot.top, showAnimals=true, infoSlotAlpha=0.7, effectTranslateY=0, showWaypointLabels=true, showAmbientNames=false, moveEffectIcons=true, showTeamNames=true, position=jm.minimap.position_topright, fontScale=1.0, info4LabelPosition=jm.minimap.info_slot.bottom, showPlayers=true, waypointIconScale=1.0, frameAlpha=100, effectReversed=false, backgroundAlpha=0.8, enabled=true, showVillagers=true, info2Label=jm.theme.labelsource.gametime, hudRenderLayer=jm.minimap.hud_render_layer_last, info3Label=jm.theme.labelsource.location, caveLayer=4, showMobs=true, waypointLabelScale=1.0, showReticle=true, orientation=jm.minimap.orientation.north, info4Label=jm.theme.labelsource.biome, locationFormat=xzyv, playerDisplay=jm.common.entity_display.outlined_icons, mobDisplayScale=1.0, showOffScreenPlayers=true, showCaves=true, hideEffectIcons=false, showMobHeading=true, locationFormatVerbose=true, showAmbientCreatures=false, showPetNames=false, info1Label=jm.theme.labelsource.blank, showNoIconNames=true}
+FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=6.0.0-beta.83, zoomLevel=8192, minimalMode=false, showPlayers=true, waypointIconScale=1.0, showEntityNames=false, showPassiveNames=false, showPlayerHeading=true, showVillagers=true, showPlayerLoc=true, showKeys=true, playerDisplayScale=1.0, showMobs=true, showPets=true, waypointLabelScale=1.0, showPlayerNames=true, preferredMapType=day, showNpcNames=false, mobDisplay=jm.common.entity_display.dots_and_outlined_icons, showHostileNames=false, pauseGame=false, showSelf=true, locationFormat=xzyv, playerDisplay=jm.common.entity_display.outlined_icons, showVillagerNames=false, mobDisplayScale=1.0, selfDisplayScale=1.0, showOffScreenPlayers=true, showGrid=true, showMouseLoc=true, showWaypoints=true, showCaves=true, showThemeButton=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, showAmbientNames=false, showAmbientCreatures=false, showTeamNames=true, showPetNames=false, fontScale=1.0, showNoIconNames=true}
+WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=6.0.0-beta.83, autoRemoveDeathpointDistance=2, showPlayers=false, dateFormat=MM-dd-yyyy, autoHideIconAngle=5, autoRemoveDeathpoints=false, autoHideIcon=false, autoHideLabelAngle=5, renderWaypointsWorld=true, showLabelBackground=true, showDeleteConfirmation=true, managerDimensionFocus=false, fullscreenDoubleClickToCreate=true, minDistance=4, coordinatesFormat=XZY, boldLabel=false, disableShare=false, showDeathpointlabel=true, autoHideLabelVertical=true, textureSmall=true, useActionsButton=false, beaconEnabled=true, createDeathpoints=true, disableStrikeThrough=false, renderWaypointsMap=true, showName=true, autoHideLabelVerticalAngle=10, maxDistance=0, ignoreRenderDistance=false, autoHideLabel=true, autoRemoveTempWaypoints=2, teleportCommand=/execute in {dim} run tp {name} {x} {y} {z}, showStaticBeam=true, renderWaypoints=true, wholeNumberTeleportCoords=false, timeFormat=HH:mm:ss, shaderBeacon=false, showDistance=true, showRotatingBeam=true, fontScale=2.0, managerEnabled=true}
+WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=6.0.0-beta.83, port=8080, enabled=false}
+CoreProperties{state=Valid, file=journeymap.core.config, configVersion=6.0.0-beta.83, maxPlayersData=32, mapSurfaceAboveCaves=true, dataCachingEnabled=true, maxAmbientCreaturesData=32, optionsManagerViewed=6.0.0-beta.82, announceMod=true, ignoreSnow=false, colorPassive=#bbbbbb, colorPassiveLabel=#bbbbbb, mapShadows=true, mapBlendWater=true, playerIconFade=true, renderDistanceSurfaceMax=0, seedId=false, colorPetLabel=#0077ff, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, initialSortOrder=Name, colorPlayerLabel=#ffffff, revealShape=jm.minimap.shape_circle, mapBiome=true, minimapPresetOverlay=true, caveShader=jm.common.map_filter.default, colorVillagerLabel=#88e188, alwaysMapSurface=false, biomeShader=jm.common.map_filter.default, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, sortDescending=true, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, dayShader=jm.common.map_filter.default, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, colorHostileLabel=#ff0000, mapBlendFoliage=true, netherSurfaceLighting=true, topoMax=0, hideSpectators=false, mappingEnabled=true, colorPlayer=#ffffff, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, mapWaterBiomeColors=true, maxAnimalsData=32, mapTransparency=true, caveBlackAsClear=false, caveModeThreshold=2, legacyIcons=false, netherShader=jm.common.map_filter.default, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=0, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, mapOnlyPlayerChunk=false, nightShader=jm.common.map_filter.default, cacheMobsData=3000, cachePlayerData=1000, splashViewed=6.0.0-beta.82, colorHostile=#ff0000, topoShader=jm.common.map_filter.default, allowMiniMapBehindScreens=true, cacheAnimalsData=3100, ignoreHeightmaps=false, lodsEnabled=true, themeName=Purist, mapCaveLighting=true, renderDelay=500, mobIconFade=true, serverIp=false, glErrorChecking=false, autoMapPoll=2000}
+[18:43:57] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 405.37ms
+[18:44:02] [Render thread/INFO] [JourneymapClientNeoForge] Journeymap PostInit
+[18:44:02] [Render thread/DEBUG] [JourneymapClient] postInitialize ENTER
+[18:44:02] [Render thread/TRACE] [ThemeLoader] Initializing themes ...
+[18:44:02] [Render thread/INFO] [NeoForgeHooks] ModFileLocation:file:/home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1%20mod%20(1)/minecraft/mods/journeymap-neoforge-1.21.1-6.0.0-beta.83.jar
+[18:44:02] [Render thread/DEBUG] [FileHandler] ZipFilePath:home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1 mod (1)/minecraft/mods/journeymap-neoforge-1.21.1-6.0.0-beta.83.jar zipEntryName:assets/journeymap/theme/victorian_ destDir:/home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1 mod (1)/minecraft/journeymap/icon/theme/victorian_ overWrite:true fromPath:home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1 mod (1)/minecraft/mods/journeymap-neoforge-1.21.1-6.0.0-beta.83.jar
+[18:44:02] [Render thread/WARN] [FileHandler] Failed getting ZipFile for home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1 mod (1)/minecraft/mods/journeymap-neoforge-1.21.1-6.0.0-beta.83.jar, attempting to use /home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1 mod (1)/minecraft/mods/journeymap-neoforge-1.21.1-6.0.0-beta.83.jar as a fallback on OS:LINUX.
+[18:44:02] [Render thread/INFO] [NeoForgeHooks] ModFileLocation:file:/home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1%20mod%20(1)/minecraft/mods/journeymap-neoforge-1.21.1-6.0.0-beta.83.jar
+[18:44:02] [Render thread/DEBUG] [FileHandler] ZipFilePath:home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1 mod (1)/minecraft/mods/journeymap-neoforge-1.21.1-6.0.0-beta.83.jar zipEntryName:assets/journeymap/theme/flat destDir:/home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1 mod (1)/minecraft/journeymap/icon/theme/flat overWrite:true fromPath:home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1 mod (1)/minecraft/mods/journeymap-neoforge-1.21.1-6.0.0-beta.83.jar
+[18:44:02] [Render thread/WARN] [FileHandler] Failed getting ZipFile for home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1 mod (1)/minecraft/mods/journeymap-neoforge-1.21.1-6.0.0-beta.83.jar, attempting to use /home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1 mod (1)/minecraft/mods/journeymap-neoforge-1.21.1-6.0.0-beta.83.jar as a fallback on OS:LINUX.
+[18:44:02] [Render thread/INFO] [NeoForgeHooks] ModFileLocation:file:/home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1%20mod%20(1)/minecraft/mods/journeymap-neoforge-1.21.1-6.0.0-beta.83.jar
+[18:44:02] [Render thread/DEBUG] [FileHandler] ZipFilePath:home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1 mod (1)/minecraft/mods/journeymap-neoforge-1.21.1-6.0.0-beta.83.jar zipEntryName:assets/journeymap/theme/vault_flat destDir:/home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1 mod (1)/minecraft/journeymap/icon/theme/vault_flat overWrite:true fromPath:home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1 mod (1)/minecraft/mods/journeymap-neoforge-1.21.1-6.0.0-beta.83.jar
+[18:44:02] [Render thread/WARN] [FileHandler] Failed getting ZipFile for home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1 mod (1)/minecraft/mods/journeymap-neoforge-1.21.1-6.0.0-beta.83.jar, attempting to use /home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1 mod (1)/minecraft/mods/journeymap-neoforge-1.21.1-6.0.0-beta.83.jar as a fallback on OS:LINUX.
+[18:44:02] [Render thread/INFO] [NeoForgeHooks] ModFileLocation:file:/home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1%20mod%20(1)/minecraft/mods/journeymap-neoforge-1.21.1-6.0.0-beta.83.jar
+[18:44:02] [Render thread/DEBUG] [FileHandler] ZipFilePath:home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1 mod (1)/minecraft/mods/journeymap-neoforge-1.21.1-6.0.0-beta.83.jar zipEntryName:assets/journeymap/theme/vault destDir:/home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1 mod (1)/minecraft/journeymap/icon/theme/vault overWrite:true fromPath:home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1 mod (1)/minecraft/mods/journeymap-neoforge-1.21.1-6.0.0-beta.83.jar
+[18:44:02] [Render thread/WARN] [FileHandler] Failed getting ZipFile for home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1 mod (1)/minecraft/mods/journeymap-neoforge-1.21.1-6.0.0-beta.83.jar, attempting to use /home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1 mod (1)/minecraft/mods/journeymap-neoforge-1.21.1-6.0.0-beta.83.jar as a fallback on OS:LINUX.
+[18:44:02] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 73
+[18:44:02] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 364.4ms
+[18:44:04] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 14ms for: Default Palette
+[18:44:19] [Render thread/INFO] [PlayerConnectHandler] onDisconnect: world is null
+[18:44:19] [Server thread/INFO] [NeoForgeConfig] Loading JourneyMap Forge Configs
+[18:44:20] [Server thread/INFO] [PluginHelper] Found @JourneyMapPlugin: journeymap.api.plugins.LoadedChunkOverlayPlugin
+[18:44:20] [Server thread/INFO] [PluginHelper] Initialized IJourneyMapPlugin as:journeymap.api.plugins.LoadedChunkOverlayPlugin: for:journeymap_chunk_overlay
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Connection initiated with Journeymap Server: true
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Teleport Enabled: false
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Expanded Radar Enabled: true
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server Admin Enabled: false
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server set show in-game beacons: true
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server set waypoints allowed: true
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server set Server Admin read only mode: true
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server set maxSurfaceRenderDistance to: 0
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server setmaxCaveRenderDistance to: 0
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server set allow mutliplayer options: true
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server set waypointTeleportOnly: false
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server set globalWaypointsOnly: false
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server set allow radarLateralDistance options: 512
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server set allow radarVerticalDistance options: 320
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server set allow maxAnimalsData options: 128
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server set allow maxAmbientCreaturesData options: 128
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server set allow maxMobsData options: 128
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server set allow maxPlayersData options: 128
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server set allow maxVillagersData options: 128
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server set allow playerRadarNamesEnabled options: true
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server set allow minimapEnabled options: true
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server set allow hideCoordinates options: false
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Connection initiated with Journeymap Server: true
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Teleport Enabled: false
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Expanded Radar Enabled: true
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server Admin Enabled: false
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server set show in-game beacons: true
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server set waypoints allowed: true
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server set Server Admin read only mode: true
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server set maxSurfaceRenderDistance to: 0
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server setmaxCaveRenderDistance to: 0
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server set allow mutliplayer options: true
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server set waypointTeleportOnly: false
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server set globalWaypointsOnly: false
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server set allow radarLateralDistance options: 512
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server set allow radarVerticalDistance options: 320
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server set allow maxAnimalsData options: 128
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server set allow maxAmbientCreaturesData options: 128
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server set allow maxMobsData options: 128
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server set allow maxPlayersData options: 128
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server set allow maxVillagersData options: 128
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server set allow playerRadarNamesEnabled options: true
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server set allow minimapEnabled options: true
+[18:44:27] [Render thread/INFO] [InternalStateHandler] Server set allow hideCoordinates options: false
+[18:44:30] [Render thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for create
+[18:44:30] [Render thread/INFO] [WaypointGroupStore] Loaded 0 waypoint groups from disk.
+[18:44:30] [Render thread/INFO] [WaypointHandler] WaypointBackend selected: Server (was=null, shouldBeRemote=true, isJMServer=true, serverManagedWP=true, isServerManagedWaypointConnection=true, hasSingleplayerServer=true)
+[18:44:30] [Render thread/INFO] [LegacyWaypointFileMigrator] 0 Legacy waypoints found that need to be migrated and backed up.
+[18:44:30] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 0ms for: /home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1 mod (1)/minecraft/journeymap/colorpalette.json
+[18:44:30] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 0ms for: /home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1 mod (1)/minecraft/journeymap/data/sp/Новый мир (1)/colorpalette.json
+[18:44:30] [Render thread/INFO] [JourneymapClient] Mapping started in /home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1 mod (1)/minecraft/journeymap/data/sp/Новый мир (1)/overworld. Memory: 4192MB total, 1573MB free 
+[18:44:30] [Render thread/INFO] [JMChunkCache] JMChunkCache: opened at /home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1 mod (1)/minecraft/journeymap/data/sp/Новый мир (1)/overworld/chunk_cache
+[18:44:30] [Render thread/INFO] [ChatLog] JourneyMap: Нажмите [J].
+[18:44:30] [Render thread/INFO] [InternalStateHandler] Connection initiated with Journeymap Server: true
+[18:44:30] [Render thread/INFO] [InternalStateHandler] Teleport Enabled: false
+[18:44:30] [Render thread/INFO] [InternalStateHandler] Expanded Radar Enabled: true
+[18:44:30] [Render thread/INFO] [InternalStateHandler] Server Admin Enabled: false
+[18:44:30] [Render thread/INFO] [InternalStateHandler] Server set show in-game beacons: true
+[18:44:30] [Render thread/INFO] [InternalStateHandler] Server set waypoints allowed: true
+[18:44:30] [Render thread/INFO] [InternalStateHandler] Server set Server Admin read only mode: true
+[18:44:30] [Render thread/INFO] [InternalStateHandler] Server set maxSurfaceRenderDistance to: 0
+[18:44:30] [Render thread/INFO] [InternalStateHandler] Server setmaxCaveRenderDistance to: 0
+[18:44:30] [Render thread/INFO] [InternalStateHandler] Server set allow mutliplayer options: true
+[18:44:30] [Render thread/INFO] [InternalStateHandler] Server set waypointTeleportOnly: false
+[18:44:30] [Render thread/INFO] [InternalStateHandler] Server set globalWaypointsOnly: false
+[18:44:30] [Render thread/INFO] [InternalStateHandler] Server set allow radarLateralDistance options: 512
+[18:44:30] [Render thread/INFO] [InternalStateHandler] Server set allow radarVerticalDistance options: 320
+[18:44:30] [Render thread/INFO] [InternalStateHandler] Server set allow maxAnimalsData options: 128
+[18:44:30] [Render thread/INFO] [InternalStateHandler] Server set allow maxAmbientCreaturesData options: 128
+[18:44:30] [Render thread/INFO] [InternalStateHandler] Server set allow maxMobsData options: 128
+[18:44:30] [Render thread/INFO] [InternalStateHandler] Server set allow maxPlayersData options: 128
+[18:44:30] [Render thread/INFO] [InternalStateHandler] Server set allow maxVillagersData options: 128
+[18:44:30] [Render thread/INFO] [InternalStateHandler] Server set allow playerRadarNamesEnabled options: true
+[18:44:30] [Render thread/INFO] [InternalStateHandler] Server set allow minimapEnabled options: true
+[18:44:30] [Render thread/INFO] [InternalStateHandler] Server set allow hideCoordinates options: false
+[19:29:59] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Theme Images
+[19:29:59] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Region Images
+[19:30:00] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Mob Icon Images
+[19:30:00] [Render thread/INFO] [WaypointGroupStore] Loaded 4 waypoint groups from disk.
+[19:30:00] [Render thread/INFO] [WaypointHandler] WaypointBackend selected: Server (was=null, shouldBeRemote=true, isJMServer=true, serverManagedWP=true, isServerManagedWaypointConnection=true, hasSingleplayerServer=false)
+[19:30:00] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from disk.
+[19:30:00] [Render thread/INFO] [LegacyWaypointFileMigrator] 0 Legacy waypoints found that need to be migrated and backed up.
+[19:30:00] [Render thread/INFO] [JourneymapClient] Mapping halted in /home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1 mod (1)/minecraft/journeymap/data/mp/offline/minecraft:overworld
+[19:30:00] [Render thread/INFO] [JourneymapClient] Mapping halted in /home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1 mod (1)/minecraft/journeymap/data/mp/offline/minecraft:overworld
+[19:30:00] [Render thread/INFO] [WaypointHandler] WaypointBackend selected: Client (was=Server, shouldBeRemote=false, isJMServer=false, serverManagedWP=false, isServerManagedWaypointConnection=false, hasSingleplayerServer=false)
+[19:31:09] [Render thread/INFO] [PlayerConnectHandler] onDisconnect: world is null
+[19:31:09] [Server thread/INFO] [NeoForgeConfig] Loading JourneyMap Forge Configs
+[19:31:13] [Server thread/INFO] [PluginHelper] Found @JourneyMapPlugin: journeymap.api.plugins.LoadedChunkOverlayPlugin
+[19:31:13] [Server thread/INFO] [PluginHelper] Initialized IJourneyMapPlugin as:journeymap.api.plugins.LoadedChunkOverlayPlugin: for:journeymap_chunk_overlay
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Connection initiated with Journeymap Server: true
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Teleport Enabled: false
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Expanded Radar Enabled: true
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server Admin Enabled: false
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server set show in-game beacons: true
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server set waypoints allowed: true
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server set Server Admin read only mode: true
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server set maxSurfaceRenderDistance to: 0
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server setmaxCaveRenderDistance to: 0
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server set allow mutliplayer options: true
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server set waypointTeleportOnly: false
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server set globalWaypointsOnly: false
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server set allow radarLateralDistance options: 512
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server set allow radarVerticalDistance options: 320
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server set allow maxAnimalsData options: 128
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server set allow maxAmbientCreaturesData options: 128
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server set allow maxMobsData options: 128
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server set allow maxPlayersData options: 128
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server set allow maxVillagersData options: 128
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server set allow playerRadarNamesEnabled options: true
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server set allow minimapEnabled options: true
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server set allow hideCoordinates options: false
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Connection initiated with Journeymap Server: true
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Teleport Enabled: false
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Expanded Radar Enabled: true
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server Admin Enabled: false
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server set show in-game beacons: true
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server set waypoints allowed: true
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server set Server Admin read only mode: true
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server set maxSurfaceRenderDistance to: 0
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server setmaxCaveRenderDistance to: 0
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server set allow mutliplayer options: true
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server set waypointTeleportOnly: false
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server set globalWaypointsOnly: false
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server set allow radarLateralDistance options: 512
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server set allow radarVerticalDistance options: 320
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server set allow maxAnimalsData options: 128
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server set allow maxAmbientCreaturesData options: 128
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server set allow maxMobsData options: 128
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server set allow maxPlayersData options: 128
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server set allow maxVillagersData options: 128
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server set allow playerRadarNamesEnabled options: true
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server set allow minimapEnabled options: true
+[19:31:15] [Render thread/INFO] [InternalStateHandler] Server set allow hideCoordinates options: false
+[19:31:16] [Render thread/INFO] [WaypointGroupStore] Loaded 0 waypoint groups from disk.
+[19:31:16] [Render thread/INFO] [WaypointHandler] WaypointBackend selected: Server (was=null, shouldBeRemote=true, isJMServer=true, serverManagedWP=true, isServerManagedWaypointConnection=true, hasSingleplayerServer=true)
+[19:31:16] [Render thread/INFO] [LegacyWaypointFileMigrator] 0 Legacy waypoints found that need to be migrated and backed up.
+[19:31:16] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 1ms for: /home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1 mod (1)/minecraft/journeymap/colorpalette.json
+[19:31:16] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 0ms for: /home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1 mod (1)/minecraft/journeymap/data/sp/Новый мир (2)/colorpalette.json
+[19:31:16] [Render thread/INFO] [JourneymapClient] Mapping started in /home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1 mod (1)/minecraft/journeymap/data/sp/Новый мир (2)/overworld. Memory: 4192MB total, 2126MB free 
+[19:31:16] [Render thread/INFO] [JMChunkCache] JMChunkCache: opened at /home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1 mod (1)/minecraft/journeymap/data/sp/Новый мир (2)/overworld/chunk_cache
+[19:31:16] [Render thread/INFO] [InternalStateHandler] Connection initiated with Journeymap Server: true
+[19:31:16] [Render thread/INFO] [InternalStateHandler] Teleport Enabled: false
+[19:31:16] [Render thread/INFO] [InternalStateHandler] Expanded Radar Enabled: true
+[19:31:16] [Render thread/INFO] [InternalStateHandler] Server Admin Enabled: false
+[19:31:16] [Render thread/INFO] [InternalStateHandler] Server set show in-game beacons: true
+[19:31:16] [Render thread/INFO] [InternalStateHandler] Server set waypoints allowed: true
+[19:31:16] [Render thread/INFO] [InternalStateHandler] Server set Server Admin read only mode: true
+[19:31:16] [Render thread/INFO] [InternalStateHandler] Server set maxSurfaceRenderDistance to: 0
+[19:31:16] [Render thread/INFO] [InternalStateHandler] Server setmaxCaveRenderDistance to: 0
+[19:31:16] [Render thread/INFO] [InternalStateHandler] Server set allow mutliplayer options: true
+[19:31:16] [Render thread/INFO] [InternalStateHandler] Server set waypointTeleportOnly: false
+[19:31:16] [Render thread/INFO] [InternalStateHandler] Server set globalWaypointsOnly: false
+[19:31:16] [Render thread/INFO] [InternalStateHandler] Server set allow radarLateralDistance options: 512
+[19:31:16] [Render thread/INFO] [InternalStateHandler] Server set allow radarVerticalDistance options: 320
+[19:31:16] [Render thread/INFO] [InternalStateHandler] Server set allow maxAnimalsData options: 128
+[19:31:16] [Render thread/INFO] [InternalStateHandler] Server set allow maxAmbientCreaturesData options: 128
+[19:31:16] [Render thread/INFO] [InternalStateHandler] Server set allow maxMobsData options: 128
+[19:31:16] [Render thread/INFO] [InternalStateHandler] Server set allow maxPlayersData options: 128
+[19:31:16] [Render thread/INFO] [InternalStateHandler] Server set allow maxVillagersData options: 128
+[19:31:16] [Render thread/INFO] [InternalStateHandler] Server set allow playerRadarNamesEnabled options: true
+[19:31:16] [Render thread/INFO] [InternalStateHandler] Server set allow minimapEnabled options: true
+[19:31:16] [Render thread/INFO] [InternalStateHandler] Server set allow hideCoordinates options: false
+[20:19:58] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Theme Images
+[20:19:58] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Region Images
+[20:19:59] [Render thread/INFO] [TextureCache] [JourneyMap]: Purging Mob Icon Images
+[20:19:59] [Render thread/INFO] [WaypointGroupStore] Loaded 4 waypoint groups from disk.
+[20:19:59] [Render thread/INFO] [WaypointHandler] WaypointBackend selected: Server (was=null, shouldBeRemote=true, isJMServer=true, serverManagedWP=true, isServerManagedWaypointConnection=true, hasSingleplayerServer=false)
+[20:19:59] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from disk.
+[20:19:59] [Render thread/INFO] [LegacyWaypointFileMigrator] 0 Legacy waypoints found that need to be migrated and backed up.
+[20:19:59] [Render thread/INFO] [JourneymapClient] Mapping halted in /home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1 mod (1)/minecraft/journeymap/data/mp/offline/minecraft:overworld
+[20:19:59] [Render thread/INFO] [JourneymapClient] Mapping halted in /home/prohor/.local/share/ElyPrismLauncher/instances/1.21.1 mod (1)/minecraft/journeymap/data/mp/offline/minecraft:overworld
+[20:19:59] [Render thread/INFO] [WaypointHandler] WaypointBackend selected: Client (was=Server, shouldBeRemote=false, isJMServer=false, serverManagedWP=false, isServerManagedWaypointConnection=false, hasSingleplayerServer=false)
+[20:20:01] [Render thread/INFO] [PlayerConnectHandler] onDisconnect: world is null
